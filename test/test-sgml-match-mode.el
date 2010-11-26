@@ -1,0 +1,1 @@
+(require 'sgml-match-mode)
